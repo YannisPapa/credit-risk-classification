@@ -11,7 +11,7 @@ Running credit_risk_classification.ipynb will give you a notebook that uses a Lo
 ### Purpose of the Analysis
 The purpose of this analysis was to evaluate Machine Learning Logistic Regression Model to predict the likelihood of a loan being classified as "high-risk" (1) or "healthy" (0). Accuracy in this context is critical for lenders looking to assess financial risks and make decisions about loan approvals.
 
-### Explanation of the Financial Information in the Data and Prediction Objective
+### Explanation of the Financial Information in the Data
 The dataset used for training the machine learning model contained the following financial features:
 
 * Loan Size (loan_size): The total amount of the loan requested by the borrower. Larger loan sizes may correlate with higher financial risk, especially if the borrower's income or financial stability cannot support repayment.
