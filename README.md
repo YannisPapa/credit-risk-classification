@@ -1,5 +1,5 @@
 # credit-risk-classification
----
+
 This is my submission for Module 20 Challenge with Berkeley Data Analytics Boot Camp.
 
 lending_data.csv data file in the Resources folder is used in credit_risk_classification.ipynb.
