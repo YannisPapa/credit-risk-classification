@@ -7,7 +7,7 @@ lending_data.csv data file in the Resources folder is used in credit_risk_classi
 Running credit_risk_classification.ipynb will give you a notebook that uses a Logistic Regression Model to find out if a load will be a 0 (healthy loan) and 1 (high-risk loan). Also an analysis of the machine learning model and how it performed is provided.
 
 ## Overview of the Analysis
----
+
 ### Purpose of the Analysis
 The purpose of this analysis was to evaluate Machine Learning Logistic Regression Model to predict the likelihood of a loan being classified as "high-risk" (1) or "healthy" (0). Accuracy in this context is critical for lenders looking to assess financial risks and make decisions about loan approvals.
 
@@ -33,7 +33,7 @@ The goal was to use these financial features to predict whether a loan would be 
 
 
 ## Results
----
+
 * Logistic Regression Model (`0` (healthy loan) and `1` (high-risk loan)):
     * Accuracy Score : 0.9927259595542716
     * Healthy Loans (`0`):
@@ -46,7 +46,7 @@ The goal was to use these financial features to predict whether a loan would be 
         * f1-score: 0.89
 
 ## Summary
----
+
 ### How did the Logistic Regression Model perform?
 The model performed exceptionally well for healthy loans (`0`), with near-perfect precision, recall, and F1-score. For high-risk loans (`1`), while the recall was strong at 95% (indicating that most high-risk loans were correctly identified), the precision of 85% suggests that some healthy loans were misclassified as high-risk.
 
